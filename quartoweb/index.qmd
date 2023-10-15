@@ -1,0 +1,35 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "grenoble2.jpg"
+  links:
+    # - icon: twitter
+    #   text: Twitter
+    #   href: https://twitter.com/MarvinSchmittML
+    # - icon: github
+    #   text: Github
+    #   href: https://github.com/marvinschmitt
+    # - icon: linkedin
+    #   text: LinkedIn
+    #   href: https://www.linkedin.com/in/marvin-schmitt-a85b321a2/
+    - icon: envelope
+      text: Email
+      href: "mailto:joshua.hess@moore.sc.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I am a clinical assistant professor of economics in the Darla Moore School of Business at the University of South Carolina. I am also the Director for the Center of Economic Excellence.
+
+Before I entered graduate school for economics, I taught mathematics and astrononmy at Front Range Community College. I still think astronomy is cool. Before that, I taught high school math.
+
+My research focuses on risky behaviors and public policy. Most recently, I have been studying the impact of cannabis liberalization. I think there are some unanswered questions concerning the substitutability of alcohol and cannabis in social versus medicinal situations. While casual inference is, and always will be, the goal; I'm not one to walk away from null results or the simple measurement of effects.
+
+I am very passionate about teaching. I believe in a student-centered, classroom experience that focuses on critical thinking and open discussions. I eschew long-format lectures for shorter modules punctuated with deep dives into concepts through a socratic format.
+
+
+<!-- On this website, you will find a selection of my published works, including scholarly articles, monographs, and translations. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about my life's work as one of Middle-earth's greatest scholars and thinkers. Please feel free to [contact me](mailto:joshua.hess@moore.sc.edu) if you have any questions or would like to discuss potential projects. -->
