@@ -1,0 +1,34 @@
+---
+title: "Research"
+format: html
+---
+This page contains publications, working papers, and works in progress.
+
+
+
+
+
+# Publications
+
+[Uncertainty, learning, and local opposition to hydraulic fracturing]{style="color:darkred"} \
+*Resource and Energy Economics* 55 (2019): 102-123, (with Dale Manning, Terry Iverson, and Harvey Cutler)
+
+# Working Papers
+
+[Higher education: The impact of recreational marijuana on college applications]{style="color:darkred"} \
+(with Chris Blake and Danna Thomas) revisions requested, *Contemporary Economic Policy*
+
+
+[Hold My Beer! The Effects of Alcohol on Risk Preferences in a College Bar]{style="color:darkred"} \
+(with Bentley Coffey and Beth Watson)
+
+
+[The Impact of College Students on Colorado's Recreational and Medical Marijuana Sales]{style="color:darkred"} 
+
+
+# Works in Progress
+
+**Estimating the Income Elasticity of Demand for Recreational Marijuana: Evidence from the Child Tax Credit\
+**(with Jason DeBacker)
+
+**Did Abortion Bans Affect Medical School Applications?**
